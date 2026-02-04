@@ -1,2 +1,2 @@
-# Calculadora-de-Partidas-Rankeadas
+# Criando uma classe par um heroi
 Desafia de código do Felipão
